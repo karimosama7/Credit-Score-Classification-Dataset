@@ -53,14 +53,14 @@ Several machine learning models were implemented to classify credit scores:
 
 The models achieved the following accuracies:
 
-- SVC: 92.5%
-- KNN: 90.2%
-- Decision Tree: 88.1%
-- Random Forest: 91.0%
-- Gradient Boosting: 93.0%
-- AdaBoost: 89.7%
-- XGBoost: 94.5%
-- Voting Classifier: 95.0%
+- SVC: 88%
+- KNN: 88%
+- Decision Tree: 94%
+- Random Forest: 94%
+- Gradient Boosting: 94%
+- AdaBoost: 96%
+- XGBoost: 96%
+- Voting Classifier: 94%
 
 ## Contributing
 
